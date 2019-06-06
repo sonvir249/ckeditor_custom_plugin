@@ -1,0 +1,6 @@
+name: ADG Link
+description: Test Test
+core: 8.x
+type: module
+dependencies:
+  - ckeditor
